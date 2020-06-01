@@ -1,11 +1,14 @@
-# Exercise - Router Redirects
+# Exercise - Login Redirect
 
 - Create a fresh React App into this repo using `npx create-react-app .`
 - Create a folders "views" which which will hold your page components
 - Create two page components in there
   - Login.js
   - Secret.js
-- The Secret doesn't need to display anything special for now - just fill in some stuff
+- The Secret page doesn't need to display anything special for now - just fill in some stuff
+
+## Coding 
+
 - Login
   - Implement a login form with Username, Password and Login button
   - on submit 

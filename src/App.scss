@@ -55,15 +55,20 @@
         margin: 5px 0;
       }
       button {
+        outline: none;
         text-transform: uppercase;
         border-radius: 20px;
-        background: linear-gradient(to bottom left, black, darkblue, black);
+        background: linear-gradient(135deg, #282c34, darkgray, #282c34);
 
         &:hover {
           opacity: 0.9;
         }
       }
+
     }
+
+    .errors { color: red; font-weight: bold; font-size: 1.2rem; }
+
   }
 
 }
